@@ -42,7 +42,7 @@ You can also use the contact details below to request access to, correction of, 
 
 When we update this policy, we will post the revised policy and its effective date on this page. If you have questions about this policy or how we process personal information, please contact the app operator.
 
-**Privacy contact email** [Enter an email address that accepts privacy requests]
+**Privacy contact email** support@kofukuai.com
 
 ---
 
@@ -90,4 +90,4 @@ Apple App Store 负责订阅购买、付款和恢复购买。应用通过 Apple 
 
 本政策更新时，我们会在本页面公布更新后的内容和生效日期。若对本政策或个人信息处理有疑问，请联系应用运营者。
 
-**隐私联系邮箱**　【填写可接收隐私请求的邮箱】
+**隐私联系邮箱**　support@kofukuai.com
